@@ -1,8 +1,7 @@
-### Its's Not The Plane, It's The Pilot
+<h2 align="center">Kts's Not The Plane, It's The Pilot</h2>I
 <p align="center"><img src="https://images.hdqwalls.com/wallpapers/2022-top-gun-maverick-4k-5p.jpg" alt="" width="750" height="300"></p>
 
 
-https://images.hdqwalls.com/wallpapers/2022-top-gun-maverick-4k-5p.jpg
 
 <!--
 **muhith7/muhith7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
